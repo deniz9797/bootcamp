@@ -10,4 +10,4 @@
 
 
 
-![university_uml](C:\Users\Deniz Dinçer\Desktop\university_uml.png)
+![university_uml](https://user-images.githubusercontent.com/62565542/156901734-6f351ba3-4aa5-4ca3-b145-c051f6e5bacd.png)
