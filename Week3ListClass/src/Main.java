@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.PriorityQueue;
+
 public class Main {
     public static void main(String[] args) {
         MyList<Integer> liste = new MyList<>();
@@ -37,6 +40,8 @@ public class Main {
         // Listeyi tamamen boşaltır ve varsayılan boyutuna çevirir
         liste.clear();
         System.out.println(liste.toString());
+        ArrayList<Integer> list = new ArrayList<>();
+        list.stream();
     }
 
 
